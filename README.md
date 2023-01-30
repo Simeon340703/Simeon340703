@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Simon Alaba
 ===================================================================================================================================
 
-Computer vision research scientist/engineer, Deep learning engineer
+Graduate Research Assistant
 -------------------------------------------------------------------
 
 I am a Ph.D. student in the electrical and computer engineering depart at Mississippi State University. My research includes computer vision, deep learning, machine learning, and autonomous driving.
