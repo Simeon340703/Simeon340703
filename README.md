@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graduate Research Assistant
 -------------------------------------------------------------------
 
-I am a Ph.D. student in the electrical and computer engineering depart at Mississippi State University. My research includes computer vision, deep learning, machine learning, and autonomous driving.
+I am a Ph.D. student in the electrical and computer engineering department at Mississippi State University. My research includes computer vision, deep learning, machine learning, and autonomous driving.
 
 * 🌍  I'm based in Starkville, MS
 * ✉️  You can contact me at [simonyihunie@gmail.com](mailto:simonyihunie@gmail.com)
