@@ -8,7 +8,7 @@ I am a Ph.D. student in the electrical and computer engineering department at Mi
 
 * 🌍  I'm based in Starkville, MS
 * ✉️  You can contact me at [simonyihunie@gmail.com](mailto:simonyihunie@gmail.com)
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Projects and research.
 
 <a href="https://www.github.com/Simeon340703" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Simeon340703?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
