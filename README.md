@@ -7,7 +7,6 @@ Graduate Research Assistant
 I am a Ph.D. candidate in the electrical and computer engineering department at Mississippi State University. My research includes computer vision, deep learning, machine learning, and autonomous driving.
 
 * 🌍  I'm based in Starkville, MS
-* ✉️  You can contact me at [simonyihunie@gmail.com](mailto:simonyihunie@gmail.com)
 * 🤝  I'm open to collaborating on Projects and research.
 
 <a href="https://www.github.com/Simeon340703" target="_blank" rel="noreferrer"><img
