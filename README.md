@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graduate Research Assistant
 -------------------------------------------------------------------
 
-I am a Ph.D. candidate in the electrical and computer engineering department at Mississippi State University. My research includes computer vision, deep learning, machine learning, and autonomous driving.
+I am a Ph.D. candidate in the Electrical and Computer Engineering department at Mississippi State University. My research includes computer vision, deep learning, machine learning, and autonomous driving. Follow me for updates.
 
 * 🌍  I'm based in Starkville, MS
 * 🤝  I'm open to collaborating on Projects and research.
