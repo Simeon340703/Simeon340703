@@ -3,11 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Graduate Research Assistant
 -------------------------------------------------------------------
+Simegnew Yihunie Alaba completed his Ph. D. in the Electrical and Computer Engineering department at Mississippi State University in May 2024. His research includes computer vision, deep learning, machine learning, and autonomous driving. Follow me for updates.
 
-I am a Ph.D. candidate in the Electrical and Computer Engineering department at Mississippi State University. My research includes computer vision, deep learning, machine learning, and autonomous driving. Follow me for updates.
-
-* 🌍  I'm based in Starkville, MS
-* 🤝  I'm open to collaborating on Projects and research.
+* 🌍  He is based in Richmond, VA
+* 🤝  He is open to collaborating on Projects and research.
 
 <a href="https://www.github.com/Simeon340703" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Simeon340703?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
