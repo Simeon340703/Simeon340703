@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Simegnew Yihunie Alaba
 ===================================================================================================================================
 
-Graduate Research Assistant
+Research Associate
 -------------------------------------------------------------------
 Simegnew Yihunie Alaba completed his Ph. D. in the Electrical and Computer Engineering department at Mississippi State University in May 2024. His research includes computer vision, deep learning, machine learning, and autonomous driving. Follow me for updates.
 
