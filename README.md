@@ -5,7 +5,7 @@ Research Associate
 -------------------------------------------------------------------
 Simegnew Yihunie Alaba completed his Ph. D. in the Electrical and Computer Engineering department at Mississippi State University in May 2024. His research includes computer vision, deep learning, machine learning, and autonomous driving. Follow me for updates.
 
-* 🌍  He is based in Richmond, VA
+* 🌍  He is based in Arlington, VA
 * 🤝  He is open to collaborating on Projects and research.
 
 <a href="https://www.github.com/Simeon340703" target="_blank" rel="noreferrer"><img
